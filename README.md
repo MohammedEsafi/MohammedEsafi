@@ -1,6 +1,6 @@
 ### Hi, I'm Mohammed Esafi 👋
 
-— I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. interested in creative coding, design & tech inclusion.
+— I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I'm also interested in creative coding, design & tech inclusion.
 
 ---
 
