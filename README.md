@@ -11,5 +11,3 @@
 - I’m looking to collaborate on contributing to JS based projects and mentoring.
 
 - How to reach me :: [hello@mesafi.com](mailto:hello@mesafi.com)! I'll try to respond as soon as I can.
-
-Interested in learning more about me! — [MY RESUME — SOON]()
