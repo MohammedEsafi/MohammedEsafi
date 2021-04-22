@@ -1,4 +1,4 @@
-— Hi, I'm Mohammed Esafi 👋 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
+**— Hi 👋, I'm Mohammed. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.**
 
 ---
 
