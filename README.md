@@ -10,9 +10,9 @@
 
 - I'm currently exploring new opportunities and side projects.
 
-- I'm a student at [1337](https://1337.ma/) where I learned about data structures and algorithms on various C programming-related projects.
+- I'm a [1337](https://1337.ma/) alumnus where I learned about data structures and algorithms on various C programming-related projects.
 
-- I’m looking to collaborate on contributing to TypeScript / Rust based projects and mentoring.
+- I'm looking to collaborate on contributing to TypeScript or Rust-based projects and mentoring.
 
 - I'm also interested in creative coding, design & tech inclusion.
 
