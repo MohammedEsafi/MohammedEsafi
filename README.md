@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      Hey 👋, I'm Mohammed. I'm a software engineer, and I'm really into creating things and exploring in the world of computer science and the web.
+      Hey 👋, I'm Mohammed. I'm a software engineer, and I'm really into creating things and exploring the world of computer science and the web.
     </td>
   </tr>
 </table>
@@ -14,6 +14,6 @@
 
 - I'm looking to collaborate on contributing to TypeScript or Rust-based projects and mentoring.
 
-- I'm also interested in creative coding, design & tech inclusion.
+- I'm also interested in creative coding, design, architecture, and design systems.
 
 - How to reach me :: [hello@mesafi.com](mailto:hello@mesafi.com)! I'll try to respond as soon as I can.
