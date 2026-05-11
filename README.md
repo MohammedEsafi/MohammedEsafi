@@ -3,17 +3,15 @@
 <table>
   <tr>
     <td>
-      Hey 👋, I'm Mohammed. I'm a software engineer, and I'm really into creating things and exploring the world of computer science and the web.
+      Hey 👋, I'm Mohammed Esafi. Software engineer building distributed systems, cloud platforms, developer tooling, and modern web applications
     </td>
   </tr>
 </table>
 
-- I'm currently exploring new opportunities and side projects.
+- Exploring how AI and LLMs are reshaping software engineering and products
 
-- I'm a [1337](https://1337.ma/) alumnus where I learned about data structures and algorithms on various C programming-related projects.
+- I'm a [1337](https://1337.ma/) alumnus with a strong foundation in systems programming, algorithms, and low-level engineering through C projects and computer science fundamentals
 
-- I'm looking to collaborate on contributing to TypeScript or Rust-based projects and mentoring.
+- I'm interested in software architecture, distributed systems, design systems, creative coding, and building products
 
-- I'm also interested in creative coding, design, architecture, and design systems.
-
-- How to reach me :: [hello@mesafi.com](mailto:hello@mesafi.com)! I'll try to respond as soon as I can.
+- How to reach me :: [hello@mesafi.com](mailto:hello@mesafi.com)!
